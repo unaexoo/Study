@@ -1,4 +1,4 @@
-# 🐥Palmer Archipelago (Antarctica) penguin data
+# 🐧Palmer Archipelago (Antarctica) penguin data
 - kaggle data : https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data/data
 - penguins_size.csv
 
@@ -13,4 +13,4 @@
 ### 앙상블 기법으로 고안된 랜덤 포레스트
 - 배깅 모델 중 하나
 
-펭귄 이모지를 못 찾아서 병아리가 대신 인사 🐥
+
