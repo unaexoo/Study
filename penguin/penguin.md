@@ -10,7 +10,33 @@
 - island: 남극 섬 이름
 - sex: 펭귄 성별
 
-### 앙상블 기법으로 고안된 랜덤 포레스트
-- 배깅 모델 중 하나
+# **Classification Report**
 
+- **Test Accuracy**: **1.00**  
+- **F1 Score**: **1.00**  
+- **Precision**: **1.00**  
+- **Recall**: **1.00**
 
+---
+
+### **Detailed Report**
+| **Class**      | **Precision** | **Recall** | **F1-Score** | **Support** |
+|-----------------|--------------|------------|--------------|-------------|
+| **Adelie**      | 1.00         | 1.00       | 1.00         | 31          |
+| **Chinstrap**   | 1.00         | 1.00       | 1.00         | 13          |
+| **Gentoo**      | 1.00         | 1.00       | 1.00         | 23          |
+
+---
+
+### **Overall Metrics**
+| **Metric**          | **Value** |
+|----------------------|-----------|
+| **Accuracy**         | 1.00      |
+| **Macro Avg**        |           |
+| - Precision          | 1.00      |
+| - Recall             | 1.00      |
+| - F1-Score           | 1.00      |
+| **Weighted Avg**     |           |
+| - Precision          | 1.00      |
+| - Recall             | 1.00      |
+| - F1-Score           | 1.00      |
