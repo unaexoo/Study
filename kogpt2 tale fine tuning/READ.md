@@ -2,7 +2,6 @@
 
 ## 데이터
 - **출처 1**: [네이버 블로그](https://blog.naver.com/osy2201/221179543994)
-- **출처 2**: [티스토리 블로그](https://gyong0117.tistory.com/50)
 
 ## 언어 모델 평가 지표
 - **Perplexity**  
@@ -13,6 +12,7 @@
 
 ## 모델
 - **모델명**: `skt/kogpt2-base-v2`
+- [티스토리 블로그](https://gyong0117.tistory.com/50)
 
 ### 학습 전 텍스트 생성 예시
 ```plaintext
